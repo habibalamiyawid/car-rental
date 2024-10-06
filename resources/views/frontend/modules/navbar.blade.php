@@ -12,6 +12,12 @@
           <li class="nav-item">
             <a class="nav-link" href="{{ route('frontend.rentals') }}">My Rantals</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ route('frontend.rentals') }}">About Us</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ route('frontend.rentals') }}">Contacts</a>
+          </li>
 
 
 
